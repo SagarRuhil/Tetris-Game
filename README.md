@@ -1,3 +1,5 @@
+Visit https://letsplaytetris.vercel.app/ to Play
+
 # Creative Tetris Game
 
 A fully functional, colorful Tetris game built with Next.js, React, and TypeScript. Features vibrant gradient blocks with glowing effects, smooth animations, and an engaging dark gaming aesthetic.
